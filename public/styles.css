@@ -1,0 +1,46 @@
+#title {
+    text-align: center;
+}
+#img-div {
+    text-align: center; 
+    margin: 20px 0; 
+}
+
+#image {
+    max-width: 100%; 
+    height: auto;  
+    margin-bottom: 20px;  
+}
+
+#image-caption {
+    font-size: 20px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+    font-size: 18px;
+  }
+
+#headline {
+    text-align:center;
+}
+
+head {
+    background-color: #f0f0f0;
+}
+
+#tribute-page-link {
+    text-align: center;
+}
+
+
+body {
+    background-color: #d3d3d385;
+}
